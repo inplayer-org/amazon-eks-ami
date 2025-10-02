@@ -1,3 +1,6 @@
+**THIS REPOSITORY IS MOVED TO GITLAB**
+
+
 # Amazon EKS AMI Build Specification
 
 This repository contains resources and configuration scripts for building a
